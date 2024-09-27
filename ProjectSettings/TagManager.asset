@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lever
+  - Exit
+  - Players
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Plateform
+  - LightPlayer
+  - Background
+  - Foreground
+  - Environnement
+  - Lever
+  - HeavyPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 835724195
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Lever
+    uniqueID: 4262273113
+    locked: 0
+  - name: HeavyPLayer
+    uniqueID: 4064107627
+    locked: 0
+  - name: LightPlayer
+    uniqueID: 458810529
+    locked: 0
+  - name: Plateform
+    uniqueID: 2556563271
+    locked: 0
+  - name: Environnement
+    uniqueID: 2061677145
+    locked: 0
+  - name: Foreground
+    uniqueID: 3796744641
+    locked: 0
